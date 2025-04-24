@@ -23,6 +23,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "firebaseApiKey": "AIzaSyAcN4DTkz9pZi_p34ksiilAuPC41r19ZaY",
+      "firebaseAuthDomain": "sneakpeak-demo-app.firebaseapp.com",
+      "firebaseProjectId": "sneakpeak-demo-app",
+      "firebaseStorageBucket": "sneakpeak-demo-app.appspot.com",
+      "firebaseMessagingSenderId": "1060462313651",
+      "firebaseAppId": "1:1060462313651:web:a4f5fcc6f2ba24fa9e70c6",
+      "firebaseMeasurementId": "G-J44YRVCQJ9"
     }
   }
 }
